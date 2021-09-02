@@ -22,7 +22,7 @@ The user opens the application and see the greeting card.
 
 *All screenshots are relevant for version 1.0*
 
-![screenshot_main](screenshots/screenshot_main.png)
+<img src="screenshots/screenshot_main.png" alt="screenshot_main" style="width:231px;height:500px;">
 
 ## Technologies
 
