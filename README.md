@@ -22,7 +22,7 @@ The user opens the application and see the greeting card.
 
 *All screenshots are relevant for version 1.0*
 
-![screenshot_main](screenshots\screenshot_main.jpg)
+![screenshot_main](screenshots\screenshot_main.png)
 
 ## Technologies
 
