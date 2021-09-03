@@ -4,7 +4,7 @@
 
 This is a simple postcard-app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
-## Content
+## Table of content
 
 - [How does it work](#How-does-it-work)
 - [Screenshots](#Screenshots)
@@ -16,7 +16,7 @@ This is a simple postcard-app for Android that was created as part of course [An
 
 ## How does it work
 
-The user opens the application and see the greeting card.
+The user opens the application and sees the greeting card.
 
 ## Screenshots
 
@@ -38,7 +38,7 @@ The user opens the application and see the greeting card.
 
 ## Development progress
 
-Development of the project began on **August 20, 2021** and was completed on **Semptember 1, 2021**.
+Development of the project began on **August 20, 2021** and was completed on **September 1, 2021**.
 
 *Since I am developing this project mainly alone, I see no reason to use [Trello](https://trello.com/).*
 
