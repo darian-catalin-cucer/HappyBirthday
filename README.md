@@ -1,6 +1,6 @@
 # HappyBirthday
 
-[![current version](https://img.shields.io/badge/current_version-1.0-green)](#)
+[![current version](https://img.shields.io/badge/current_version-1.0-green)](#HappyBirthday)
 
 This is a simple postcard app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
@@ -21,6 +21,8 @@ The user opens the application and sees the greeting card.
 ## Screenshots
 
 *All screenshots are relevant for version 1.0*
+
+At the beginning:
 
 <img src="screenshots/screenshot_main.png" alt="screenshot_main" style="width:231px;height:500px;">
 
@@ -47,7 +49,7 @@ Development of the project began on **August 20, 2021** and was completed on **S
 [![wakatime](https://wakatime.com/badge/github/VitasSalvantes/HappyBirthday.svg)](https://wakatime.com/badge/github/VitasSalvantes/HappyBirthday)
 
 See more
-on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/fraabfodvj).
+on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/qkzcomdbcz).
 
 ## How to install
 
